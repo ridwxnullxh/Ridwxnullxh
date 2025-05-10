@@ -3,7 +3,7 @@
 # 💫 About Me:
 <br>I'm Ridwxnullxh — a passionate full stack developer who loves turning ideas into clean, functional code. Whether it's frontend finesse or backend logic, I'm always building, learning, and breaking things just to rebuild them better.
 
-🧙‍♂️ Code whisperer | 🐞 Bug slayer | 🍕 Pizza-powered dev
+🧙‍♂️ Code whisperer | 🐞 Bug slayer | 🍕 Coffee-powered dev
 
 💻 Full Stack Developer | 🌍 Open to remote collaboration
 
